@@ -1,0 +1,177 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.global {  
+  width: 100%;
+}
+
+.global_map {
+  max-width: 700px;
+  display: inline-block;
+}
+
+.global_img {
+  width: 700px;
+  height: 540px;
+  margin-top: 80px;
+  text-align: center;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, .25);   
+}
+  
+  
+
+.global_title1 {
+  font-family: ;
+  font-size: 48px;
+  font-weight: 600;
+  text-align: left;
+  margin-top: 90px;
+
+}
+
+.global_small {
+  font-family: ;
+  margin-top: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.global_li {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 60px;
+  margin-right: 20px;
+}
+
+.global_item {
+  width: 160px;
+  font-size: 14px;
+  text-align: left;
+  position: relative;
+  z-index: 2; 
+}
+
+.global_value {
+  font-size: 30px;
+  color: rgb(0, 234, 235);
+}
+
+.global_text {
+  font-size: 14px;
+}
+
+.global_li2 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 60px;
+}
+
+.global_small2 {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 60px;
+}
+
+.global_item2 {
+  margin-top: 15px;
+}
+
+.global_value2 {
+  max-width: 90px;
+  font-size: 25px;
+  color: rgb(0, 234, 235);
+  
+  
+}
+
+.global_text2 {
+  font-size: 10px;
+  max-width: 90px;
+  text-align: left;
+}
+
+.map {
+  position: relative;
+  margin-top: -100px;
+  z-index: 1;
+}
+
+.global_work {
+  max-width: 550px;
+  margin-bottom: 145px;
+  margin-left: 50px;
+  display: inline-block;
+}
+
+li {
+  color: rgb(0, 234, 235);
+}
+
+li span {
+  color: black
+}
+
+.global_title2 {
+  font-family: ;
+  font-size: 48px;
+  font-weight: 600;
+  text-align: left;
+  margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+.bunner {
+  position: relative;
+
+}
+
+
+.link {
+  margin-top: -560px;
+  margin-left: 450px;
+}
+
+.link_title3 {
+  font-size: 60px;
+  font-weight: 600;
+  color: rgb(0, 234, 235);
+}
+
+.stars {
+  margin-top: -990px;
+}
+
+.goit_link {
+  
+}
+
+.goit {
+  width: 100px;
+  margin-top: 640px;
+  margin-left: 390px;
+  display: inline-block;
+
+}
+
+.create {
+  font-size: 28px;
+  max-width: 370px;
+  max-height: 30px;
+  color: white;
+  margin-top: 640px;
+  margin-left: 30px;
+  display: inline-block;
+}
+
